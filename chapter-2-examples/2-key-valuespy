@@ -1,0 +1,12 @@
+def keyValue():
+    total = int(input("How many students? "))
+    compWinners = {}
+    for element in range(total):
+        key = input("How many students? ")
+        value = int(input("How many students? "))
+        compWinners[key] = value
+    print("The dictionary now is: ")
+    print(compWinners)
+
+    return
+keyValue()
