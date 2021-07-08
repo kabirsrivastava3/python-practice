@@ -1,3 +1,5 @@
+#Feet to Inch using three functions
+
 def inputFeet():							
 	feet=int(input("enter number in feet "))
 	return feet 
