@@ -1,4 +1,5 @@
 #search for key in the dictionary and print the corresponding value
+#Time Complexity = O(N)
 
 def input(element):
     return element

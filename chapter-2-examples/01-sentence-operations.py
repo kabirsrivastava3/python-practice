@@ -1,4 +1,5 @@
 #inputting a sentence and counting no. of uppercase, lowercase, digits and alphabets in it.
+#Time Complexity = O(N)
 
 def input(sentence):
     return sentence

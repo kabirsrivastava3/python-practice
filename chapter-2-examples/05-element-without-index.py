@@ -1,4 +1,5 @@
 #find an element's index/position in a tuple WITHOUT using index()
+#Time Complexity = O(N)
 
 def input(char):
     return char

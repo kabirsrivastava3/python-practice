@@ -1,4 +1,5 @@
 # inputting and printing the key and values of a dictionary from a user.
+#Time Complexity = O(N)
 
 def input(total):
     return total

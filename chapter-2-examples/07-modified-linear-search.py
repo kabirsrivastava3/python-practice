@@ -1,4 +1,5 @@
 #fixed case sensative for finding and priting key
+#Time Complexity = O(N)
 
 def input(element):
     return element
