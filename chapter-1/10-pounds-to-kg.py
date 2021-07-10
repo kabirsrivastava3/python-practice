@@ -1,5 +1,7 @@
 #convert pound to kg and print it in a tabular manner
 
+#Time Complexity = O(N)
+
 print("Pounds |  Kgs")
 for convert in range(1,10):
     print("{}  |  {}".format(convert,convert*0.45))
