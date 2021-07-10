@@ -1,5 +1,7 @@
 # Multipy two integer numbers without using * operator, use repeated addition
 
+#Time Complexity = O(N)
+
 number1 = int(input("Enter the first number: "))
 number2 = int(input("Enter the second number: "))
 count = number1
