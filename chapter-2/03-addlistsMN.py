@@ -1,7 +1,9 @@
 #Input two lists L and N of same size. 
 #Add their elements in a new list P
 #Print the new list
-    
+
+#Time Complexity = O(N)    
+
 size = int(input("Enter the size of lists: "))
 L=[]
 N=[]

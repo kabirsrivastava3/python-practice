@@ -3,6 +3,8 @@
 #print: No. of characters
 #print: Percentage of alpha-numeric characters
 
+#Time Complexity = O(N)
+
 sentence = input("Enter a sentence = ")
 print(sentence)
 length = len(sentence)

@@ -1,4 +1,5 @@
 #create a list of integers < 100 that are multiples of 3 and 5
+#Time Complexity = O(N)
 
 numList = []
 

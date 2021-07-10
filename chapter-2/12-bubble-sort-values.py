@@ -1,5 +1,7 @@
 # Bubble Sort-values of a dictionary as a list
 
+#Time Complexity = O(N)
+
 def bubbleSort(k):
     for i in range(1,len(k)):
         for j in range(len(k)-i):

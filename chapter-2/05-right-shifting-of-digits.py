@@ -1,5 +1,5 @@
 #Rotate the elements of a list to the right by 1.
-
+#Time Complexity = O(N*N)
 
 size = int(input("Enter the size of lists: "))
 numList=[]

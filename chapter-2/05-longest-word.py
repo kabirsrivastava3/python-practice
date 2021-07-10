@@ -1,4 +1,5 @@
 #longest word in a list
+#Time Complexity = O(N)
 
 wordList = []
 

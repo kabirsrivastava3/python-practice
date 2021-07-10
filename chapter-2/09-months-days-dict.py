@@ -5,6 +5,7 @@
 #(c) print out all of the month with 31 days
 #(d) print out the (key - value) pair sorted  by the number of the days in each month.
 
+#Time Complexity = O(N)
 
 month = {"January":31, "February":28, "Leap February":29, "March":31, "April":30, "May":31, "June":30, "July":31, "August":31, "September":30, "October":31 , "November":30, "December":31}
 

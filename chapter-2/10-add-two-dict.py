@@ -1,6 +1,8 @@
 #create a function called addDict(dict1, dict2) = union of two dictionaries
 #print a new dictionary with all the items in both its arguements
 
+#Time Complexity = O(N)
+
 def addDict(dict1, dict2):
     newDict = {}
     for index in dict1.keys():
